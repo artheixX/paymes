@@ -1,7 +1,7 @@
 {
     "name": "hakan/paymes",
     "description": "Paymes onlayn ödəniş qəbulu sistemi Rest Api xidməti kimi təklif olunur.",
-    "type": "project",
+    "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
